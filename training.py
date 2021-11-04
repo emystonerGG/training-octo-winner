@@ -6,3 +6,6 @@ def test_function2():
 
 def test_function3():
     #coooode
+
+def branch_function():
+    #code stuff
