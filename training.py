@@ -3,3 +3,6 @@ def test_function1():
 
 def test_function2():
     #code stuff
+
+def test_function3():
+    #coooode
